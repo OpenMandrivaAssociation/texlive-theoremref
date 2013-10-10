@@ -1,12 +1,12 @@
-# revision 20632
+# revision 30640
 # category Package
 # catalog-ctan /macros/latex/contrib/theoremref
-# catalog-date 2010-12-01 16:02:54 +0100
+# catalog-date 2012-07-10 15:51:55 +0200
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-theoremref
-Version:	20101201
-Release:	2
+Version:	20120710
+Release:	1
 Summary:	References with automatic theorem names
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theoremref
@@ -51,16 +51,3 @@ proposition or a theorem (or whatever).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20101201-2
-+ Revision: 756829
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20101201-1
-+ Revision: 719726
-- texlive-theoremref
-- texlive-theoremref
-- texlive-theoremref
-
