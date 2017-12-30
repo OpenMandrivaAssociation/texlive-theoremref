@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-theoremref
-Version:	20120710
-Release:	9
+Version:	20170414
+Release:	1
 Summary:	References with automatic theorem names
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theoremref
