@@ -1,9 +1,3 @@
-# revision 30640
-# category Package
-# catalog-ctan /macros/latex/contrib/theoremref
-# catalog-date 2012-07-10 15:51:55 +0200
-# catalog-license lppl
-# catalog-version undef
 Name:		texlive-theoremref
 Version:	20170414
 Release:	1
@@ -36,11 +30,8 @@ proposition or a theorem (or whatever).
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/theoremref/theoremref.sty
-%doc %{_texmfdistdir}/doc/latex/theoremref/COPYING
-%doc %{_texmfdistdir}/doc/latex/theoremref/README
-%doc %{_texmfdistdir}/doc/latex/theoremref/theoremref-doc.pdf
-%doc %{_texmfdistdir}/doc/latex/theoremref/theoremref-doc.tex
+%{_texmfdistdir}/tex/latex/theoremref
+%doc %{_texmfdistdir}/doc/latex/theoremref
 
 #-----------------------------------------------------------------------
 %prep
