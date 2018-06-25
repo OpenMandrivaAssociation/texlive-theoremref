@@ -1,5 +1,5 @@
 Name:		texlive-theoremref
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	References with automatic theorem names
 Group:		Publishing
