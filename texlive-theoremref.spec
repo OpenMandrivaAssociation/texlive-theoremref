@@ -1,6 +1,6 @@
 Name:		texlive-theoremref
 Version:	20180303
-Release:	2
+Release:	3
 Summary:	References with automatic theorem names
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theoremref
