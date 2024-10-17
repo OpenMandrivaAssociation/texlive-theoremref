@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	References with automatic theorem names
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theoremref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/theoremref
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theoremref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theoremref.doc.r%{version}.tar.xz
